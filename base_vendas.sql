@@ -1,0 +1,7 @@
+CREATE TABLE base_vendas AS
+SELECT * FROM basevendas2022
+UNION ALL
+SELECT * FROM basevendas2023
+UNION ALL
+SELECT * FROM basevendas2024;
+
