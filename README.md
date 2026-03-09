@@ -41,6 +41,9 @@ As tabelas tratadas foram consolidadas no Excel e exportadas em arquivos CSV par
 
 Após o tratamento, os dados foram carregados no MySQL para a etapa final do pipeline.
 
+Ingestão de Dados: Os arquivos CSV foram importados para o banco utilizando o
+Table Data Import Wizard do MySQL Workbench.
+
 **Cálculo de Negócio:**
 Adição da coluna faturamento via script SQL utilizando GENERATED ALWAYS AS para garantir cálculos automatizados e precisos.
 
