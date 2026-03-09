@@ -6,7 +6,7 @@ Este projeto demonstra um pipeline completo de engenharia de dados, focado na ex
 
 ## 🛠 Tecnologias Utilizadas
 
-**Power Query ( Power BI):**
+**Power Query (Power BI):**
 Tratamento, limpeza e enriquecimento dos dados.
 
 **Excel:**
